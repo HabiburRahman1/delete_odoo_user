@@ -29,3 +29,4 @@ sudo rm -R /odoo14
 sudo rm /etc/odoo14-server.conf
 sudo rm -R  /var/log/odoo14/
 ```
+For installing odoo you can follow https://github.com/Yenthe666/InstallScript#readme this tutorial. This is one of the best way to install odoo in ubuntu
